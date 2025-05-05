@@ -1,14 +1,14 @@
-# 👋 Hi, I’m @Hir2wa
+👊 I’m Hirwa Alain Fabrice
+=============================
+🛠️ I don’t chase fancy. I chase real.  
+📚 Started with nothing but curiosity and Wi-Fi.  
+🔁 I learn 1% every damn day. No excuses.  
+🧱 Foundation first — that’s the code.  
+⚡ Consistency. Discipline. Faith in the process.
 
-- 👀 I’m interested in software development, full-stack engineering, and exploring emerging tech trends.
-- 🌱 I’m currently learning advanced backend development and cloud computing technologies.
-- 💞️ I’m looking to collaborate on open-source projects, especially those related to web development, DevOps, and automation.
-- 📫 How to reach me: [alainfabricehirwa@gmail.com](mailto:alainfabricehirwa@gmail.com)
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/hirwa-alain-fabrice) or check out my [Codewars profile](https://www.codewars.com/users/Hir2wa).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a coffee enthusiast and love learning new languages (both programming and spoken)!
+“Every master was once a beginner. Every boss was once just grinding in silence.”
 
-<!---
-Hir2wa/Hir2wa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full-stack dev in the making. Projects loud, ego quiet.
+
+Let’s work. Let’s build.  
+For the culture. For the real ones. For the legacy.
