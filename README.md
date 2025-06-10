@@ -12,3 +12,4 @@
 
 Let’s work. Let’s build.  
 For the culture. For the real ones. For the legacy.
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hir2wa)](https://git.io/streak-stats)
