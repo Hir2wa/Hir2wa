@@ -5,10 +5,7 @@
 🔁 I learn 1% every damn day. No excuses.  
 ⚡ Consistency. Discipline. Faith in the process.
 
+
 “Every master was once a beginner. Every boss was once just grinding in silence.”
 
-💻 Full-stack dev in the making. Projects loud, ego quiet.
-
-Let’s work. Let’s build.  
-For the culture. For the real ones. For the legacy.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hir2wa)](https://git.io/streak-stats)
