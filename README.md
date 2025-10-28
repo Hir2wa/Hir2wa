@@ -1,21 +1,23 @@
 <h1 align="center">Hirwa Alain Fabrice</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Full-Stack & Mobile Developer | Blockchain Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-I am a passionate **Software Engineer** focused on designing and developing reliable, maintainable, and scalable systems.  
-My journey started with curiosity and consistency, evolving into a commitment to build impactful digital solutions.  
+I am a dedicated **Software Engineer** passionate about designing and developing secure, scalable, and user-centered systems.  
+My focus spans from backend architecture to mobile and blockchain-based applications, driven by a mission to build technology that makes an impact.  
 
-I specialize in **Java**, **Spring Boot**, **React**, and **Node.js**, combining both backend and frontend expertise to deliver complete, high-quality applications.  
+I work primarily with **Java**, **Spring Boot**, **React**, **Node.js**, **Flutter**, and **Android (Java)** —  
+and I’m exploring **cryptography** and **blockchain** to strengthen system security and data integrity.  
 
 ---
 
 ### 🧠 Professional Focus
-- Architecting and developing **RESTful APIs** & **microservices**  
-- Building responsive interfaces using **React** and modern **JavaScript (ES6+)**  
-- Implementing **MVC architecture** for maintainable applications  
-- Continuously improving development workflows and performance  
+- Building **RESTful APIs** and **microservices** for enterprise systems  
+- Developing modern, responsive web interfaces using **React** and **JavaScript (ES6+)**  
+- Creating cross-platform **mobile applications** using **Flutter** and **Android (Java)**  
+- Researching and building **cryptographic models** using **blockchain principles** for security  
+- Applying **MVC architecture** and **clean code practices** in all projects  
 
 ---
 
@@ -23,9 +25,11 @@ I specialize in **Java**, **Spring Boot**, **React**, and **Node.js**, combining
 
 | Category | Technologies |
 |-----------|---------------|
-| **Languages** | Java, JavaScript, C, C# |
+| **Languages** | Java, JavaScript, Dart, C, C# |
 | **Frontend** | React, HTML5, CSS3, Tailwind CSS |
 | **Backend** | Spring Boot, Node.js, Express.js |
+| **Mobile** | Flutter, Android (Java), React Native |
+| **Blockchain & Security** | Cryptography, Smart Contracts (Solidity - exploring), Data Integrity Systems |
 | **Databases** | PostgreSQL, MySQL |
 | **Tools & Platforms** | Git, GitHub, IntelliJ IDEA, VS Code, Postman, Figma |
 
@@ -43,12 +47,6 @@ I specialize in **Java**, **Spring Boot**, **React**, and **Node.js**, combining
 
 ---
 
-### 🚀 Current Projects
-- Developing a **Support Desk System** in Java using **Swing** and **MVC architecture**  
-- Contributing to a **Coffee Cooperative Management System** focused on efficiency and transparency  
-- Exploring **microservice integration** using **Spring Boot** and **React**  
-
----
 
 ### 📫 Get in Touch
 📧 **alainfabricehirwa@gmail.com**  
@@ -57,4 +55,4 @@ I specialize in **Java**, **Spring Boot**, **React**, and **Node.js**, combining
 
 ---
 
-<h4 align="center">"Code with precision. Build with passion. Grow with consistency."</h4>
+<h4 align="center">"Code with precision. Build with passion. Secure with innovation."</h4>
