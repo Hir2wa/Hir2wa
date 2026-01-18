@@ -53,7 +53,12 @@ and I’m exploring **cryptography** and **blockchain** to strengthen system sec
 🌍 **Based in Rwanda**  
 🔗 [GitHub Profile](https://github.com/Hir2wa)
 
-🔗 [Fortfolio Website](https://hirwa-portfolio-mu.vercel.app/)                                                           
 ---
+
+<p align="center">
+  <a href="https://hirwa-portfolio-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 <h4 align="center">"Code with precision. Build with passion. Secure with innovation."</h4>
