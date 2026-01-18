@@ -52,6 +52,7 @@ and I’m exploring **cryptography** and **blockchain** to strengthen system sec
 📧 **alainfabricehirwa@gmail.com**  
 🌍 **Based in Rwanda**  
 🔗 [GitHub Profile](https://github.com/Hir2wa)
+
 🔗 [Fortfolio Website](https://hirwa-portfolio-mu.vercel.app/)                                                           
 ---
 
