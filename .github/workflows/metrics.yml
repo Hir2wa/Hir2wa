@@ -22,21 +22,16 @@ jobs:
           config_display: large
           repositories_affiliations: owner, collaborator
 
-      # Most used languages across public and private repos; indepth counts
-      # only lines from your own commits, so teammates' code is left out
+      # Most used languages across your own repos, private ones included
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.languages.svg
           base: ""
           config_timezone: Africa/Kigali
-          repositories_affiliations: owner, collaborator
+          repositories_affiliations: owner
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 1%
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 20
-          commits_authoring: Hir2wa, alainfabricehirwa@gmail.com, 176826012+Hir2wa@users.noreply.github.com
