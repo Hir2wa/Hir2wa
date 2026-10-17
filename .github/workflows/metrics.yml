@@ -37,4 +37,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 1%
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 30
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 20
+          commits_authoring: Hir2wa, alainfabricehirwa@gmail.com, 176826012+Hir2wa@users.noreply.github.com
