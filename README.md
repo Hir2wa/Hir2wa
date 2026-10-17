@@ -72,10 +72,6 @@ camera proctoring (MediaPipe), second-screen detection and signed workspace-inte
 </p>
 
 <p align="center">
-  <img src="metrics.languages.svg" alt="Most used languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Hir2wa&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
