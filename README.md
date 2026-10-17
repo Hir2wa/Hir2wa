@@ -1,88 +1,87 @@
-# Hirwa Alain Fabrice
-
-> Backend Engineer | Cloud-Native Developer | AI Systems Enthusiast
-
-Building secure, scalable backend systems with a focus on clean architecture, high concurrency, and data integrity.
-
----
-
-## About Me
-
-I am a Software Engineering student passionate about backend engineering, cloud computing, and distributed systems.
-
-Currently focused on:
-
-- Backend development with C# (.NET) and Java (Spring Boot)
-- Cloud-native applications using Docker and Kubernetes
-- Database design with PostgreSQL and MySQL
-- Agentic AI and intelligent backend systems
-- Software architecture and system design
-
----
-
-## GitHub Statistics
+<h1 align="center">Hirwa Alain Fabrice</h1>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-six-retrace.vercel.app/api?username=Hir2wa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=Hir2wa&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <b>Backend Engineer · Cloud-Native Developer · Software Engineering Student</b><br/>
+  Building secure, scalable backend systems with a focus on clean architecture, concurrency and data integrity.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hir2wa&theme=tokyonight&hide_border=true"/>
+  <a href="https://hirwa-portfolio-mu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:alainfabricehirwa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/hir2wa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Hir2wa&style=for-the-badge&color=1f6feb&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
 
-## Technologies
+### About
 
-| Backend | Cloud | Database | Other |
-|---------|--------|----------|--------|
-| C# (.NET) | Docker | PostgreSQL | Git |
-| Java (Spring Boot) | Kubernetes | MySQL | Linux |
-| Node.js | CI/CD | Redis | Flutter |
-| Python | Azure | Firebase | React |
-
----
-
-## Current Focus
-
-- Cloud-native backend architecture
-- Distributed systems
-- Kubernetes orchestration
-- Agentic AI
-- Secure API development
-- Software architecture
+- 🔭 Software Engineering student at **AUCA**, based in **Rwanda**
+- 🏢 Currently at **TheGymRwanda**
+- ⚙️ Backend development with **C# (.NET)** and **Java (Spring Boot)**
+- ☁️ Cloud-native apps with **Docker** and **Kubernetes**
+- 🧠 Exploring agentic AI, distributed systems and software architecture
 
 ---
 
-## Featured Projects
+### Tech Stack
 
-### Guardian Integrity Ecosystem
+**Languages**<br/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 
-A secure launcher and backend ecosystem designed for AI-assisted grading with integrity verification.
+**Frameworks**<br/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 
-### Cloud-Native Learning
-
-Building scalable applications using Docker and Kubernetes.
-
-### Security Research
-
-Exploring cryptographic techniques for protecting distributed systems.
+**Data & Cloud**<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 ---
 
-## Connect
+### Featured Project
 
-- Portfolio: https://hirwa-portfolio-mu.vercel.app
-- Email: alainfabricehirwa@gmail.com
-- LeetCode: https://leetcode.com/hir2wa/
-- GitHub: https://github.com/Hir2wa
+**Guardian** ([exam client](https://github.com/Hir2wa/guardian-exam-client)) — desktop exam proctoring system (Final Year Project).
+Students sit exams in a locked-down Tauri desktop app while proctors monitor them live from a web control panel.
+Spring Boot API · Next.js dashboard · Rust/Tauri launcher · Node.js security agent with process watchdog,
+camera proctoring (MediaPipe), second-screen detection and signed workspace-integrity ledgers.
 
 ---
 
-## Weekly Coding Activity
+### GitHub Stats
 
-[![wakatime](https://wakatime.com/share/@Hir2wa/activity.svg)](https://wakatime.com/dashboard)
+<p align="center">
+  <img src="metrics.overview.svg" alt="GitHub overview"/>
+</p>
+
+<p align="center">
+  <img src="metrics.languages.svg" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hir2wa&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+### Coding Time (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
