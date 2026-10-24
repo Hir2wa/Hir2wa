@@ -82,13 +82,13 @@ camera proctoring (MediaPipe), second-screen detection and signed workspace-inte
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 October 2026 - To: 21 October 2026
+From: 15 October 2026 - To: 22 October 2026
 
 Total Time: 1 hr 6 mins
 
-Other   2 hrs 51 mins         ██████████████████░░░░░░░   71.97 %
-Text    1 hr 3 mins           ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-HTML    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other   2 hrs 39 mins         █████████████████▓░░░░░░░   70.54 %
+Text    1 hr 3 mins           ███████░░░░░░░░░░░░░░░░░░   27.82 %
+HTML    3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
